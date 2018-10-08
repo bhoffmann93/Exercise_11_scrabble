@@ -24,6 +24,8 @@ public class Main {
 
         Subtringer stringer = new Subtringer(word);
 
+        //TEst 123 GITGIT
+
     }
 
 
