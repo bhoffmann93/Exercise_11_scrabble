@@ -1,3 +1,4 @@
+import java.sql.SQLOutput;
 import java.util.Random;
 
 public class Main {
@@ -28,6 +29,14 @@ public class Main {
 
         //TESTTEST2
 
+        hello();
+
+
+    }
+
+    //hello I am a useful contributor to this project and this is my work
+    public static void hello(){
+        System.out.println("Hello World");
     }
 
 
